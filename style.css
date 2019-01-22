@@ -1,0 +1,39 @@
+*{
+
+}
+
+h4 {
+    display: block;
+    margin-block-start: -8px;
+    margin-block-end: 10px;
+}
+
+#d {
+    margin-left: 169px;
+    margin-top: 10px;
+}
+
+#c {
+    margin-left: 56px;
+    margin-top: 10px;
+}
+
+#b {
+    margin-left: 37px;
+    margin-top: 10px;
+}
+
+#a {
+    margin-left: 35px;
+}
+
+.caculator {
+    margin: auto;
+    padding: 10px;
+    border: navy 3px solid;
+    width: 400px;
+    height: 300px;
+}
+h2 {
+    text-align: center;
+}
